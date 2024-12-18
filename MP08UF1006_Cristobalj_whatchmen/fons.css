@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+}
+
+body{
+    text-align: center;
+    background-image: linear-gradient(
+    5deg,
+    hsl(127deg 64% 47%) 0%,
+    hsl(147deg 100% 38%) 12%,
+    hsl(157deg 100% 37%) 22%,
+    hsl(170deg 100% 36%) 32%,
+    hsl(183deg 100% 36%) 40%,
+    hsl(194deg 100% 43%) 48%,
+    hsl(202deg 100% 50%) 55%,
+    hsl(205deg 100% 50%) 62%,
+    hsl(207deg 100% 50%) 68%,
+    hsl(211deg 100% 50%) 74%,
+    hsl(215deg 100% 50%) 81%,
+    hsl(222deg 100% 50%) 89%,
+    hsl(255deg 100% 50%) 100%
+    );
+   }
+
+img {
+    width: 10%;
+}
